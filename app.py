@@ -20,6 +20,7 @@ def exibir_opcoes():
     print('2. Listar restaurante')
     print('3. Alternar estado restaurante')
     print('4. SAIR\n')
+    print()
 
 def finalizar_app():
     exibir_subtitulo('Finalizando o programa')
